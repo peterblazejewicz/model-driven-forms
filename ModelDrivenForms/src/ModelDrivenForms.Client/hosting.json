@@ -1,0 +1,6 @@
+{
+  "applicationName": "Model Driven Forms",
+  "environment": "Development",
+  "server.urls": "http://+:5000",
+  "webroot": "dist"
+}
